@@ -1,3 +1,4 @@
+/* eslint-disable react/no-unescaped-entities */
 import PageWrapper from "@/components/PageWrapper";
 
 const HomePage = () => {
