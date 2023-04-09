@@ -21,7 +21,7 @@ const HomePage = () => {
 					<h1 className="text-white text-6xl">Luxury Properties</h1>
 					<div>
 						<input className="rounded-md h-[50px] w-[300px] pl-5" type="text" placeholder="Search locations" />
-						<button className="ml-3 w-fit h-[50px] w-[130px] bg-blue-500 text-white cursor-pointer rounded-md">
+						<button className="ml-3 w-fit h-[50px] w-[150px] bg-blue-500 text-white cursor-pointer rounded-md">
 							Search now
 						</button>
 					</div>
